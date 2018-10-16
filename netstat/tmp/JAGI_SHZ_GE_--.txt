@@ -1,0 +1,9 @@
+# Start Time: 2018-10-14 22:03:57.136 (5.928266371359999E8)
+# End Time: 2018-10-15 22:03:57.136 (5.929130371359999E8)
+# Total Time: 86400.0
+# Time Zone: UTC
+# Station: JAGI_SHZ_GE_--
+# Minumum Gap Duration: 5.0
+# GapCount: 1
+# Gap Start		Gap End			Duration
+5.928266371359999E8	5.929130371359999E8	86400.0
